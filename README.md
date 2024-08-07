@@ -1,1 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/cqcvl8q8x83sugx7?svg=true)](https://ci.appveyor.com/project/Slava-82/patterns1-2)
+![2024-08-07_14-59-00](https://github.com/user-attachments/assets/9ff58cb5-96de-49eb-aa14-7627a957947c)
+![2024-08-07_14-59-33](https://github.com/user-attachments/assets/3918d5aa-c78d-41ff-9499-b73ac62d8b5b)
+![2024-08-07_15-00-16](https://github.com/user-attachments/assets/31ddbce1-2aec-4ecb-9d46-1c417cf8677a)
+![2024-08-07_15-00-32](https://github.com/user-attachments/assets/be21d9e6-dbda-4266-a554-ce5d485aba41)
+![2024-08-07_15-00-52](https://github.com/user-attachments/assets/2c8e3432-2368-4bd1-a4a2-c7d45d353ac6)
